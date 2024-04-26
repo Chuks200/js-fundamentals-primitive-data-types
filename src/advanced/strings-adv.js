@@ -3,13 +3,13 @@ const cityStr = 'City'
 const shoppingList = 'apples, bananas, oranges, grapes'
 
 // TODO get the INDEX of the character where 'York' word is found in the city variable
-const cityIndex = 0
+const cityIndex = city.indexOf('York')
 
 // TODO - get the substring "York" from the city variable
 const citySubstring = ''
 
 // TODO = replace 'York' with 'Delhi'
-const cityReplaced = ''
+const cityReplaced = const cityReplaced = city.replace('York', 'Delhi')
 
 // TODO - check if city starts with 'New' and ends with 'York'
 const cityStartsWith = false
